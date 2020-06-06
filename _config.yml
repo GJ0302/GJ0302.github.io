@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Somthing"
+title                    : "*super star* Curby"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kerby"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "GJ"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "나는 -이상한- ."
+  bio              : "나는 -이상한- 학생이다."
   location         : "Korea"
   email            :
   links:
