@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "*super star* cirby"
+title                    : "pokemon"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Kirby"
+name                     : "rukario"
 description              : "An amazing website."
 url                      : "https://gj0302.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "GJ"
+  name             : "treaner"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Kirby."
+  bio              : "pokemon"
   location         : "space"
   email            :
   links:
