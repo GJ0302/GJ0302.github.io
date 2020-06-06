@@ -96,7 +96,7 @@ author:
   name             : "treaner"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "pokemon"
-  location         : "space"
+  location         : "local"
   email            :
   links:
     - label: "Email"
