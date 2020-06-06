@@ -1,3 +1,3 @@
-addres:<a>https://pokemon.fandom.com/ko/wiki/%EB%8C%80%EB%AC%B</a>
+addres:<a>https://pokemon.fandom.com/ko/wiki/%ED%8F%AC%EC%BC%93%EB%AA%AC%EC%8A%A4%ED%84%B0</a>
 
 pkemon Illustrated book
